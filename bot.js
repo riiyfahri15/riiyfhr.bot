@@ -20,7 +20,7 @@ pertanyaan.innerHTML = botSay()[0]
 let usersData = []
 
 function botStart() {
-    if(jawaban.value.length < 1) return alert('SILAHKAN JAWAB TERLEBI DAHULU');
+    if(jawaban.value.length < 1) return alert('SILAHKAN JAWAB TERLEBIH DAHULU');
     init++
     if (init === 1) {
         console.log()
