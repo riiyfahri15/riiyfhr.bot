@@ -1,12 +1,12 @@
 *, html, body {
-    margin: 0;
-    padding: 0;
+    margin: 100;
+    padding: 100;
     box-sizing: border-box;
 }
 
 .container {
     width: 500px;
-    margin: 20 auto;
+    margin: 0 auto;
 }
 
 .wrapper {
